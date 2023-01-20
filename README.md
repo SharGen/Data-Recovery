@@ -1,5 +1,5 @@
 # Data-Recovery
 Data Recovery python tool to recover deleted files from removable drive.
 
-install pyfiglet
+Install pyfiglet*
 ```pip install pyfiglet```
