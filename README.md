@@ -9,7 +9,7 @@ Install pyfiglet*
 >```pip install pyfiglet```
 
 **Step 2**
-Make sure to launch finshed code via terminal.
+Make sure to launch finshed code via admin terminal.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/74583970/216753507-8ba39b5e-e94f-4842-823c-64a67626b92f.png">
 
