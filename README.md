@@ -15,4 +15,5 @@ Make sure to launch finshed code via terminal.
 
 As this line of code makes directory to the CWD or current working directory. It coud need admin perm if running it on root or restricted volume or directory.
 
-# Please contribute :)
+# Please contribute and share :)
+https://github.com/SharGen/Data-Recovery
