@@ -1,4 +1,4 @@
-**Data Recovery Tool for File Carving and Reconstruction**
+# Data Recovery Tool for File Carving and Reconstruction
 Developed a multi-threaded data recovery tool in Python to locate and recover deleted or corrupted files from removable storage devices based on unique file signatures. This tool is capable of recovering common file formats like PDF, JPG, ZIP, and PNG, ensuring efficient data reconstruction.
 
 Key Features & Achievements:
